@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(to right, #46591F, #698C23, #AAD94C, #D0FF73)
+}
+
+.container{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #46591f96;
+    height: 100px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    width: 450px;
+}
+
+h1{
+    color: #46591F;
+    font-family: Arial, sans-serif;
+    padding-top: 30px;
+}
+
